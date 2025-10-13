@@ -1,0 +1,22 @@
+Stock_Ticker,Model_Name,Prediction,Analysis_Date,Final_Decision,BUY_Probability,SELL_Probability,HOLD_Probability
+GOOG,Fundamental Analysis,SELL (Overvalued based on assets),2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Technical Analysis,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Time Series Forecasting (ARIMA),Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Linear Regression,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Logistic Regression,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Random Forest,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Support Vector Machine,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,XGBoost & LightGBM,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Artificial Neural Network,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Recurrent Neural Network,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Long Short-Term Memory,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Gated Recurrent Unit,Hold,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Transformer,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,SARIMA,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Prophet,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Kalman Filter,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Deep Q-Network,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Proximal Policy Optimization,Buy,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Actor-Critic,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,Stacking Ensemble,Sell,2025-10-13 04:51:47,SELL,42.86,52.38,4.76
+GOOG,CNN-LSTM Hybrid,SELL,2025-10-13 04:51:47,SELL,42.86,52.38,4.76

@@ -1,0 +1,2 @@
+Stock Ticker,Analysis Date,Total Models,BUY Predictions,SELL Predictions,HOLD Predictions,BUY Probability (%),SELL Probability (%),HOLD Probability (%),Final Decision,Current Stock Price,Data Period
+GOOG,2025-10-13 04:51:47,21,9,11,1,42.86,52.38,4.76,SELL,237.49,10 Years

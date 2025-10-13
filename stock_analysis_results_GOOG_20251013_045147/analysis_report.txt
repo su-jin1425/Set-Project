@@ -1,0 +1,102 @@
+
+=================================================================
+STOCK MARKET ANALYSIS REPORT
+=================================================================
+
+Stock Ticker: GOOG
+Analysis Date: 2025-10-13 04:52:12
+Data Period: 10 Years
+Current Stock Price: $237.49
+
+=================================================================
+FINAL RECOMMENDATION
+=================================================================
+
+FINAL DECISION: SELL
+
+Confidence Breakdown:
+- BUY Probability: 42.86%
+- SELL Probability: 52.38%
+- HOLD Probability: 4.76%
+
+Total Models Analyzed: 21
+- Models suggesting BUY: 9
+- Models suggesting SELL: 11
+- Models suggesting HOLD: 1
+
+=================================================================
+INDIVIDUAL MODEL PREDICTIONS
+=================================================================
+
+Fundamental Analysis               : SELL (Overvalued based on assets)
+Technical Analysis                 : Buy
+Time Series Forecasting (ARIMA)    : Buy
+Linear Regression                  : Sell
+Logistic Regression                : Buy
+Random Forest                      : Buy
+Support Vector Machine             : Sell
+XGBoost & LightGBM                 : Sell
+Artificial Neural Network          : Buy
+Recurrent Neural Network           : Buy
+Long Short-Term Memory             : Sell
+Gated Recurrent Unit               : Hold
+Transformer                        : Sell
+SARIMA                             : Sell
+Prophet                            : Sell
+Kalman Filter                      : Buy
+Deep Q-Network                     : Buy
+Proximal Policy Optimization       : Buy
+Actor-Critic                       : Sell
+Stacking Ensemble                  : Sell
+CNN-LSTM Hybrid                    : SELL
+
+
+=================================================================
+FUNDAMENTAL ANALYSIS DATA
+=================================================================
+
+Market Cap                    : 2866073305088
+P/E Ratio                     : 25.318764
+P/B Ratio                     : 7.920822
+Dividend Yield                : 0.35
+Trailing EPS                  : 9.38
+Forward P/E Ratio             : 26.535196
+Trailing Dividend Yield       : 0.004169935
+Trailing Dividend Rate        : 1.01
+Beta                          : 1.0
+Trailing PEG Ratio            : 1.6764
+Forward EPS                   : 8.95
+
+
+=================================================================
+TECHNICAL INDICATORS (RECENT)
+=================================================================
+
+No technical indicator data available.
+
+
+=================================================================
+RECENT PRICE HISTORY (Last 10 Days)
+=================================================================
+
+1976-11-10: $244.36 N/A
+1976-11-11: $243.55 N/A
+1976-11-12: $245.54 N/A
+1976-11-13: $246.43 N/A
+1976-11-14: $246.45 N/A
+1976-11-15: $251.51 N/A
+1976-11-16: $247.13 N/A
+1976-11-17: $245.46 N/A
+1976-11-18: $242.21 N/A
+1976-11-19: $237.49 N/A
+
+
+=================================================================
+DISCLAIMER
+=================================================================
+
+This analysis is for educational and informational purposes only.
+It should not be considered as financial advice.
+Always consult with a qualified financial advisor before making investment decisions.
+Past performance does not guarantee future results.
+=================================================================
